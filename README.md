@@ -4,7 +4,8 @@ SirenSetting_Limit_Adjuster for FiveM 'updated' for gamebuild 2802
 This is an 'updated' version of cp702's SirenSetting Limit Adjuster 2.0.2 plugin.
 
 # I did not create this plugin, I only updated it for use on FiveM gamebuild b2802.
-You can find the original/not updated plugin here: https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/
+You can find the original/NOT UPDATED plugin here: https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/
+## DO NOT DOWNLOAD THE PLUGIN FROM LCPDFR.COM IF YOU WANT IT TO WORK WITH GAMEBUILD 2802
 
 This plugin raises various siren limits in GTA V/FiveM.
 
