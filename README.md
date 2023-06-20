@@ -23,3 +23,6 @@ This version of the plugin is compatible with the following gamebuilds;
 - 2612
 - 2699
 - 2802
+
+Getting an error regarding 'log creation failed.'?
+Follow the steps here to solve the issue: https://github.com/KevinL852/SirenSetting_Limit_Adjuster_b2802/issues/2
