@@ -5,12 +5,11 @@ This is an 'updated' version of cp702's SirenSetting Limit Adjuster 2.0.2 plugin
 
 # I did not create this plugin, I only updated it for use on FiveM gamebuild b2802.
 You can find the original/NOT UPDATED plugin here: https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/
-## DO NOT DOWNLOAD THE PLUGIN FROM LCPDFR.COM IF YOU WANT IT TO WORK WITH GAMEBUILD 2802
 
 This plugin raises various siren limits in GTA V/FiveM.
 
 How to install the plugin:
-1. Download the .asi and extract the .zip to your desktop. (Click green 'Code' button and select 'Download ZIP')
+1. Download the .asi and extract the .zip to your desktop. (Click green 'Code' button and select 'Download ZIP'(In Github, NOT lcpdfr.com))
 2. Open the "FiveM Application Data" folder and navigate to the "plugins" folder. If you don't have a plugins folder, create one.
 3. Drag & drop the "SirenSetting_Limit_Adjuster_b2802.asi" into the plugins folder and you should be good to go.
 
