@@ -9,7 +9,7 @@ You can find the original/NOT UPDATED plugin here: https://www.lcpdfr.com/downlo
 This plugin raises various siren limits in GTA V/FiveM.
 
 How to install the plugin:
-1. Download the .asi and extract the .zip to your desktop. (Click green 'Code' button and select 'Download ZIP'(In Github, NOT lcpdfr.com))
+1. Download the .asi and extract the .zip to your desktop. (Click green 'Code' button and select 'Download ZIP')
 2. Open the "FiveM Application Data" folder and navigate to the "plugins" folder. If you don't have a plugins folder, create one.
 3. Drag & drop the "SirenSetting_Limit_Adjuster_b2944.asi" into the plugins folder and you should be good to go.
 
