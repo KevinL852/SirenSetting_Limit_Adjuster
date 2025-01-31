@@ -1,5 +1,5 @@
 # SirenSetting_Limit_Adjuster_updated
-SirenSetting_Limit_Adjuster for FiveM 'updated' for gamebuild 2944
+SirenSetting_Limit_Adjuster for FiveM 'updated' for gamebuild 3258
 
 This is an 'updated' version of cp702's SirenSetting Limit Adjuster 2.0.2 plugin.
 
@@ -25,6 +25,7 @@ This version of the plugin is compatible with the following gamebuilds;
 - 2802
 - 2944
 - 3095
+- 3258
 
 Getting an error regarding 'log creation failed.'?
 Follow the steps here to solve the issue: https://github.com/KevinL852/SirenSetting_Limit_Adjuster_updated/issues/2
