@@ -1,5 +1,5 @@
 # SirenSetting_Limit_Adjuster_updated
-SirenSetting_Limit_Adjuster for FiveM 'updated' for use up to gamebuild 3717 (mp2025_02) 'A Safehouse in the Hills'
+SirenSetting_Limit_Adjuster for FiveM 'updated' for use up to gamebuild 3751 (mp2025_02) 'A Safehouse in the Hills'
 
 This is an 'updated' version of cp702's SirenSetting Limit Adjuster 2.0.2 plugin.
 
@@ -30,6 +30,7 @@ This version of the plugin is compatible with the following gamebuilds;
 - 3407
 - 3570
 - 3717
+- 3751
 
 Getting an error regarding 'log creation failed.'?
 Follow the steps here to solve the issue: https://github.com/KevinL852/SirenSetting_Limit_Adjuster_updated/issues/2
